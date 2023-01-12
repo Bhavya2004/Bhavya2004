@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I am Bhavya Barai, a Computer Science Student.<br><br>Learning Flutter,Pythonand Algorithms<br><br>Mastering DSA<br><br>I’m looking to collaborate on cool project.<br><br>Ask me About Java,Javascript,DBMS and Frontend Languages<br>
+Hello! I am Bhavya Barai, a Computer Science Student.<br><br>Learning Flutter,Python and Algorithms<br><br>Mastering DSA<br><br>I’m looking to collaborate on cool project.<br><br>Ask me About Java,Javascript,DBMS and Frontend Languages<br>
 
 
 ## 🌐 Socials:
