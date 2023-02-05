@@ -15,8 +15,8 @@ Hello! I am Bhavya Barai, a Computer Science Student.<br><br>Learning Flutter,Py
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bhavya2004&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@Bhavya_Barai_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- ## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=@Bhavya_Barai_)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
