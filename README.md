@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Bhavya+Barai;Backend+Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+Algorithm+%7C+Python" alt="Typing SVG" />
+</a>
+<br/>
 <a href="https://github.com/drkostas">
     <img src="https://github-stats-alpha.vercel.app/api?username=Bhavya2004&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
@@ -22,8 +27,12 @@ Hello! I am Bhavya Barai, a Computer Science Student.<br><br>Learning Flutter,Py
 <!-- ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@Bhavya_Barai_)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+My Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhavya2004&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhavya2004&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhavya2004&theme=dracula)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bhavya2004&icon=0&color=0)](https://visitcount.itsvg.in)
