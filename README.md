@@ -1,6 +1,7 @@
 <a href="https://github.com/drkostas">
     <img src="https://github-stats-alpha.vercel.app/api?username=Bhavya2004&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+<br>
 # 💫 About Me:
 Hello! I am Bhavya Barai, a Computer Science Student.<br><br>Learning Flutter,Python and Algorithms<br><br>Mastering DSA<br><br>I’m looking to collaborate on cool project.<br><br>Ask me About Java,Javascript,DBMS and Frontend Languages<br>
 
