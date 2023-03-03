@@ -2,12 +2,12 @@
 <a href="https://github.com/drkostas">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Bhavya+Barai;Backend+Developer+%7C+B.Tech+Student+%7C+Passionate;Data+Structure+%7C+Algorithm+%7C+Python" alt="Typing SVG" />
 </a>
-<br/>
+<br>
 <a href="https://github.com/drkostas">
     <img src="https://github-stats-alpha.vercel.app/api?username=Bhavya2004&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 <br>
-# 💫 About Me:
+ 💫 About Me:<br>
 Hello! I am Bhavya Barai, a Computer Science Student.<br><br>Learning Flutter,Python and Algorithms<br><br>Mastering DSA<br><br>I’m looking to collaborate on cool project.<br><br>Ask me About Java,Javascript,DBMS and Frontend Languages<br>
 
 
