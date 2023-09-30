@@ -22,6 +22,8 @@ Hello! I am Bhavya Barai, a Computer Science Student.<br><br>Learning Flutter,Py
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Bhavya2004&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bhavya2004&theme=tokyonight&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya2004&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+# Holophin Badges:
+[![An image of @bhavya2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhavya2004)](https://holopin.io/@bhavya2004)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bhavya2004&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
