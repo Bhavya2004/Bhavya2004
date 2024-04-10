@@ -65,6 +65,4 @@ Hello! I am Bhavya Barai, a Computer Science Student.<br><br>Learning Flutter,Py
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-
 ![animated-wave](https://github.com/Ctoic/Ctoic/assets/90936436/f12da875-8704-4e89-80f8-31c42713adec)
