@@ -35,6 +35,7 @@ Hello! I am Bhavya Barai, a Computer Science Student.<br><br>Learning Flutter,Py
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Bhavya2004&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bhavya2004&theme=tokyonight&hide_border=false)
 ![](https://leetcard.jacoblin.cool/Bhavya_2004?animation=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhavya2004&theme=dracula) 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya2004&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
@@ -52,7 +53,7 @@ Hello! I am Bhavya Barai, a Computer Science Student.<br><br>Learning Flutter,Py
 <!-- ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@Bhavya_Barai_)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
-My Stats:
+<!--My Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhavya2004&theme=dracula) 
 
@@ -60,7 +61,7 @@ My Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhavya2004&theme=dracula)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bhavya2004&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Bhavya2004&icon=0&color=0)](https://visitcount.itsvg.in)--!>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
