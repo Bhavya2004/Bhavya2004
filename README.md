@@ -31,9 +31,10 @@ Hello! I am Bhavya Barai, a Computer Science Student.<br><br>Learning Flutter,Py
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
-# 📊 GitHub Stats:
+# 📊 Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Bhavya2004&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bhavya2004&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bhavya2004&theme=tokyonight&hide_border=false)
+![](https://leetcard.jacoblin.cool/Bhavya_2004?animation=true)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya2004&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
